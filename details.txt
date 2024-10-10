@@ -1,1 +1,2 @@
 Name: Vishal Kumar Yadav\nFather's Name: [Manoj Kumar Yadav]\nRegistration Number: [12222783]\nArea of Specialization: [Full Stack Developer]
+Area of Specialization: Web Development
